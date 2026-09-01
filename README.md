@@ -23,4 +23,4 @@ A visual and structured web dashboard designed to organize technical information
 
 ## ✍️ Author's Notes
 
-This proyect is not interactive. its just a layout as it is my first proyect made by me. Designed and coded by renzosantelli1-ship-it.
+This proyect is not interactive. its just a layout as it is my first proyect made by me. Designed and coded by renzosantelli11-ship-it.
